@@ -50,6 +50,10 @@ about:
   license_family: Apache
 
 extra:
+  anaconda-services:
+    ref: https://anaconda.zendesk.com/agent/tickets/48416
+    reason: Client request
   recipe-maintainers:
+    - ianaobi
     - fhoehle
     - conda-forge/mypy
